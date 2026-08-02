@@ -2,6 +2,8 @@
 
 A high-quality 3D geometric mesh model of **Batman**, optimized for digital rendering, animation, or 3D printing workflows.
 
+OnShape Link: https://cad.onshape.com/documents/320e220688a441ed9dfd6c9a/w/a5d92688bec1299b483f3e46/e/5bd1819952e85394ab1524cc?renderMode=0&uiState=6a6f5d6f8da84d1e223de867
+
 ---
 
 ## 📐 Project Features
